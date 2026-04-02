@@ -23,7 +23,7 @@ On the frontend, I have:
 
 I care about correctness, observability, and maintainability. Systems should be predictable under load, resilient to failure, and understandable months later.
 
-Currently deepening my expertise in distributed systems, cloud-native infrastructure, and observability, working with:
+Currently deepening my expertise in distributed systems, cloud-native infrastructure, observability, and AI development, working with:
 
 - Docker and Kubernetes for container orchestration
 - Go for high-concurrency backend services
@@ -34,6 +34,6 @@ Currently deepening my expertise in distributed systems, cloud-native infrastruc
 - CI/CD pipelines with GitHub Actions
 - Test-driven development across feature and unit levels
 - Observability using OpenTelemetry, Prometheus, Grafana, and New Relic for metrics, tracing, and production monitoring
-- AI development: integrating with providers like OpenAI, Anthropic, Gemini (building agents for structured outputs, multimodal generation, embeddings) and seamless application interactions via MCP
+- Integrating with providers like OpenAI, Anthropic, Gemini (building agents for structured outputs, multimodal generation, embeddings) and seamless application interactions via MCP
 
 I am particularly interested in building resilient infrastructure for fintech, crypto, and payment-driven systems.
